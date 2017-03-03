@@ -1,6 +1,6 @@
 <?php
 
-$email_a = 'Paul Zeino <zeino@et.esiea.fr>';
+$email_a = 'Tanguy GITON <giton@et.esiea.fr>';
 $email_cc = null;
-$email_cci = 'Tanguy GITON <giton@et.esiea.fr>';
-$email_subject = 'Gala ESIEA 2016 - Contact';
+$email_cci = null;
+$email_subject = 'Gala du Groupe ESIEA - Contact';

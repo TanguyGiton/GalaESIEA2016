@@ -66,15 +66,15 @@ html {
 }
 
 .black-section {
-    min-height: 100%;
     padding-top: 80px;
+    padding-bottom: 80px;
     background: #121212;
     color: #fff;
 }
 
 .white-section {
-    min-height: 100%;
     padding-top: 80px;
+    padding-bottom: 80px;
     background: #fff;
     color: #111111;
 }

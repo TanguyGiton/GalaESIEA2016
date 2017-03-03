@@ -2,7 +2,7 @@
 
 countdownManager = {
 // Configuration
-    targetTime: new Date(2016, 3, 1, 23, 0, 0, 0), // Date cible du compte à rebours (00:00:00)
+    targetTime: new Date(2017, 2, 31, 23, 0, 0, 0), // Date cible du compte à rebours (00:00:00)
     displayElement: { // Elements HTML où sont affichés les informations
         day: null,
         hour: null,
